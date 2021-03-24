@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771527175961",
+    "firebase_url": "https://trafficjam-613a3-default-rtdb.firebaseio.com",
+    "project_id": "trafficjam-613a3",
+    "storage_bucket": "trafficjam-613a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771527175961:android:4b39c3b4df71def8e25f88",
+        "android_client_info": {
+          "package_name": "com.example.traffic_jam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771527175961-o3udd68o4ullqjrfst4vct9vnrjhj925.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6zGYok91ia3PIjdDXUE_yRpJiDaCaTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771527175961-o3udd68o4ullqjrfst4vct9vnrjhj925.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
